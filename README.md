@@ -1,16 +1,15 @@
-# kliniku
+# KLINIKu
+Tugas besar dari Mata Kuliah APB
 
-A new Flutter project.
+Aplikasi ini adalah Client Side yang dimana hanya digunakan oleh **Pasien/user** saja
 
-## Getting Started
+## Fitur yang tersedia :
+- [x] Membuat akun pasien
+- [x] Melakukan login pasien
+- [x] Melihat List Dokter dan Kategori Dokter
+- [x] Membuat appointment dengan dokter (menentukan tanggal saja)
+- [x] Melihat & edit status appointment
+- [x] Mendapatkan notifikasi jika di acc/cancel
+- [x] Melihat maps dengan informasi yang lebih detail
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jika terdapat perubahan biasanya di update ke repo <a href="https://github.com/agilfchx/KLINIKu-Flutter" target="_blank">aslinya</a>

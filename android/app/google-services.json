@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "418098808939",
+    "project_id": "kliniku-project-2",
+    "storage_bucket": "kliniku-project-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418098808939:android:5cfd2a76db0c93429e892e",
+        "android_client_info": {
+          "package_name": "com.example.kliniku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418098808939-g0fvr6dtp4vgs7s9etsq18rurpa9mlu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPNbsJok6aNzYVIcWEuKhXbtxIVMynco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418098808939-g0fvr6dtp4vgs7s9etsq18rurpa9mlu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418098808939:android:6a777c45d084286b9e892e",
+        "android_client_info": {
+          "package_name": "com.tubes.kliniku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418098808939-g0fvr6dtp4vgs7s9etsq18rurpa9mlu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPNbsJok6aNzYVIcWEuKhXbtxIVMynco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418098808939-g0fvr6dtp4vgs7s9etsq18rurpa9mlu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
